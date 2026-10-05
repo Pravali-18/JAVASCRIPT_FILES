@@ -1,0 +1,15 @@
+{
+  "students": [
+    {
+      "name": "Rahul Kumar",
+      "age": 21,
+      "id": "1"
+    },
+    {
+      "name": "Ravi",
+      "age": 22,
+      "id": "bXqvyEFmKAU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
